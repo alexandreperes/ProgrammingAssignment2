@@ -1,6 +1,6 @@
 # Assignment: Caching the Inverse of a Matrix
 
-# The functions do "makeCacheMatrix" and "cacheSolve" were designed
+# The functions "makeCacheMatrix" and "cacheSolve" were designed
 # to cache the inverse of a matrix.
 
 
